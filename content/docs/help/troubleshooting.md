@@ -1,7 +1,7 @@
 ---
-title: "Troubleshooting"
-description: "Solutions to common problems."
-lead: "Solutions to common problems."
+title: "HackBio Server"
+description: "Plug and Play Server Solutions designed for Bioinformatics."
+lead: "Plug and Play Server Solutions designed for Bioinformatics"
 date: 2020-11-12T15:22:20+01:00
 lastmod: 2020-11-12T15:22:20+01:00
 draft: false
@@ -13,18 +13,4 @@ weight: 620
 toc: true
 ---
 
-## Problems updating npm packages
-
-Delete the `./node_modules` folder, and run again:
-
-```bash
-npm install
-```
-
-## Problems with cache
-
-Delete the temporary directories:
-
-```bash
-npm run clean
-```
+## Coming Soon
